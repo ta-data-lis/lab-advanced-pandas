@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab we will take our skills with Pandas to the next level. We will practice advanced functions, changing the index and method chaining.
+ In this lab we will take our skills with Pandas to the next level. We will practice advanced functions, changing the index and method chaining.
 
 ## Getting Started
 
