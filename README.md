@@ -4,11 +4,14 @@
 
 ## Introduction
 
-In this lab we will take our skills with Pandas to the next level. We will practice advanced functions, changing the index and method chaining.
+In this lab we will take our skills with Pandas to the next level. We will practice advanced 
+functions, changing the index and method chaining.
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and comments. By the end of this lab, you will have leveled up your skills in Pandas!
+Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add 
+your code and comments. By the end of this lab, you will have leveled up your skills in 
+Pandas!
 
 ## Deliverables
 
@@ -16,7 +19,8 @@ Open the `main.ipynb` file in the `your-code` directory. Follow the instructions
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverables to git. Then commit git and push your branch to 
+the remote.
 
 ## Resources
 
